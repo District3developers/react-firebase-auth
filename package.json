@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint-config": "^0.3.0",
     "firebase": "^7.15.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -30,5 +31,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Put your credentials to `.env`.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/District3developers/react-firebase-auth.git"
+  },
+  "keywords": [
+    "district3developers"
+  ],
+  "author": "farhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/District3developers/react-firebase-auth/issues"
+  },
+  "homepage": "https://github.com/District3developers/react-firebase-auth#readme"
 }
